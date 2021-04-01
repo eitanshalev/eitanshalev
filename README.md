@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-eitans1111@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eitans1111@gmail.com)](mailto:eitans1111@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/eitanshalev?label=Follow&style=social)](https://github.com/eitanshalev/?tab=follow)
 
-- :smile: I like to code, draw, play games and hang out with freinds.
+- :smile: I like to code, draw, play games and hang out with friends.
 - 🌱 I'm currently improving my skills in HTML and formal language.
 - :computer: Languages that I know: Python, C/C++ .
 <!--
