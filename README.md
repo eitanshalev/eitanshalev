@@ -6,8 +6,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/eitanshalev?label=Follow&style=social)](https://github.com/eitanshalev/?tab=follow)
 
 - :smile: I like to code, draw, play games and hang out with friends.
-- 🌱 I'm currently improving my skills in HTML and formal language.
-- :computer: Languages that I know: Python, C/C++ .
+- 🌱 I'm currently improving my skills in HTML and formal language, java.
+- :computer: Languages that I know: Python, C/C++, javascript.
 <!--
 **cs4242/cs4242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
